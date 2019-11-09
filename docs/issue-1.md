@@ -4,6 +4,8 @@
 
 ![](https://raw.githubusercontent.com/zywudev/blog-source/master/image/%E6%A0%A1%E9%95%BF%E4%BF%A1%E7%AE%B1%E5%92%8C%E7%94%B5%E8%AF%9D.jpg)
 
+（题图：大学一角，2019.10）
+
 非常喜欢阮一峰老师的[科技互联网周刊]( https://github.com/ruanyf/weekly "科技互联网周刊")，增长了不少见识，也很佩服阮老师的坚持。信息爆炸的时代，能够阅读到优质内容很不容易。
 
 受阮老师的启发，将每周看到的优质内容分享出来，应该挺有价值的。其实，分享本身就是一件有趣有意义的事。
