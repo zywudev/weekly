@@ -5,7 +5,7 @@
 
 ## 2020
 
-五月：[第 7 期](docs/issue-7.md) 
+五月：[第 8 期](docs/issue-8.md)  | [第 7 期](docs/issue-7.md) 
 
 ## 2019
 
